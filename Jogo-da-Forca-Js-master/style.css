@@ -1,0 +1,30 @@
+@font-face {
+    font-family:mine ;
+    src: url(./font/Minecraft.ttf);
+}
+
+body{
+    background-image: url(../img/fundu.jpg);
+    background-size: cover;
+    background-color: black;
+
+    text-align: center;
+    font-family: mine;
+    
+ 
+}
+
+button{
+
+padding: 10px 300px ;
+
+background-color: rgb(185, 185, 189);
+
+font-family: mine;
+}
+
+
+.text-imput{
+    padding: 10px 300px ;
+    
+}
